@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_aaa_games",
+  "info": {
+    "displayName": "Game",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}
